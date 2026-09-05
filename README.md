@@ -1,6 +1,20 @@
+
+
+![Shotgun Metagenomics](https://img.shields.io/badge/Data-Shotgun%20Metagenomics-2E8B57)
+![Environmental Microbiome](https://img.shields.io/badge/System-Estuarine%20Microbiome-0077B6)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
+![SLURM](https://img.shields.io/badge/HPC-SLURM-8A2BE2)
+![Kraken2](https://img.shields.io/badge/Taxonomy-Kraken2%20%2B%20Bracken-3366CC)
+![MetaWRAP](https://img.shields.io/badge/Assembly-MetaWRAP%20%2B%20MEGAHIT-D97706)
+![MAGs](https://img.shields.io/badge/Analysis-MAG%20Reconstruction-7B2CBF)
+![Functional](https://img.shields.io/badge/Function-MMseqs2%20%7C%20DITING%20%7C%20METABOLIC-C0392B)
+
+---
 # MBRACE Metagenomics — November 2025
 
 **Shotgun metagenomics | Environmental microbiome | HPC bioinformatics | Genome-resolved metagenomics**
+
+
 
 ## Project Overview
 
