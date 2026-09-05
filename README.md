@@ -200,16 +200,7 @@ Some scripts currently contain cluster-specific absolute paths because they docu
 
 ## Planned Repository Additions
 
-* [ ] Add study design and sample metadata
-* [ ] Add software and environment versions
-* [ ] Add sequencing QC summaries
-* [ ] Add taxonomic composition figures
-* [ ] Add functional pathway figures
-* [ ] Add MAG quality summaries
-* [ ] Add MAG taxonomy results
-* [ ] Add downstream R analysis scripts
-* [ ] Add representative result tables
-* [ ] Convert cluster-specific paths to configurable variables
+* 
 
 ---
 
