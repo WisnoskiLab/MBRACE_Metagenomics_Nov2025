@@ -1,0 +1,53 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Large sequence files
+*.fa
+*.fasta
+*.fna
+
+# Alignments
+*.sam
+*.bam
+*.bai
+
+# Compressed archives
+*.tar
+*.tar.gz
+*.zip
+*.gz
+
+# Large databases
+*.dmnd
+*.h3f
+*.h3i
+*.h3m
+*.h3p
+
+# SLURM logs
+slurm-*.out
+*.out
+*.err
+
+# Large analysis directories
+CLEAN_READS/
+READ_QC/
+ASSEMBLY/
+MEGAHIT/
+METABOLIC_output/
+DIAMOND_output/
+KRAKEN_output/
+BRACKEN_output/
+GTDBTK_output/
+MetaWRAP_output/
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
